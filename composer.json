@@ -1,17 +1,17 @@
 {
-    "name": "hyn/lets-encrypt",
+    "name": "boparaiamrit/letsencrypt",
     "description": "Automated SSL certificates with Let's Encrypt",
-    "keywords": ["lets-encrypt", "ssl", "hyn"],
+    "keywords": ["letsencrypt", "ssl", "boparaiamrit"],
     "license": "MIT",
     "authors": [
         {
             "name": "Daniël `Luceos` Klabbers",
-            "email": "daniel+hyn@klabbers.email"
+            "email": "daniel+boparaiamrit@klabbers.email"
         }
     ],
     "support": {
-        "issues": "https://github.com/hyn/lets-encrypt/issues",
-        "source": "https://github.com/hyn/lets-encrypt"
+        "issues": "https://github.com/boparaiamrit/letsencrypt/issues",
+        "source": "https://github.com/boparaiamrit/letsencrypt"
     },
     "require": {
         "php": ">=5.6.0",
@@ -37,5 +37,5 @@
     },
     "prefer-stable": true,
     "minimum-stability": "dev",
-    "bin": ["bin/hyn-le"]
+    "bin": ["bin/boparaiamrits"]
 }
